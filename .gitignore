@@ -3,3 +3,6 @@ build/
 out/
 dist/
 tsconfig.tsbuildinfo
+
+.idea
+.DS_Store
